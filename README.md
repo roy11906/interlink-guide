@@ -11,8 +11,8 @@
 3. 點右上角頭像 → 登錄 → 註冊  
    Top-right avatar → Log in → Sign up
 
-4. 設定用戶 ID（4~12 字元）  
-   Set your user ID (4~12 characters)
+4. 設置您的用戶 ID（4~12 個字元）
+  Set your user ID (4~12 characters)
 
 5. 設定密碼、再輸入一次確認  
    Set your password, then confirm it
