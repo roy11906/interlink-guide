@@ -23,19 +23,19 @@
 7. 回頭再點頭像 → 帳戶管理 → 語言選「繁體中文」  
    Go back → Tap avatar → Account Settings → Choose "Traditional Chinese"
 
-8. 點「推薦朋友」 → 輸入推薦碼：76660  
-   Tap "Refer a Friend" → Enter Referral Code: **76660**
 
+8. 點「推薦朋友」 → 輸入推薦碼：**76660** → 按「提交**」  
+    Tap "Refer a Friend" → Enter Referral Code: **76660** → Tap "Submit"
+
+ 
 9. 點選「Human Hash」 → 活體驗證  
-   Tap "Human Hash" → Do facial verification
+    Tap "Human Hash" → Do facial verification
 
 10. 綁定電子信箱 → 點下方「挖礦」  
     Link email → Tap "Mine" button below
 
 ---
 
-📢 歡迎加我聯絡交流：  
-LINE: roy11906  
-WeChat: roy1190688
-
- 
+📣 歡迎加入我聯絡交流：  
+LINE：`roy11906`  
+WeChat：`roy1190688`
